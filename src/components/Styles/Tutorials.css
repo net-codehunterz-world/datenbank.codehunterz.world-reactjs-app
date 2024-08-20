@@ -1,0 +1,42 @@
+
+
+  .Content p {
+    color: red;
+  }
+  
+  
+  .Content {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+  }
+  
+  .Tutorials {
+    background-color: #646464;
+  }
+
+  .Tutorials-body {
+    color: black !important;
+  }
+
+  .Tutorials-author {
+    color: aqua !important;;
+  }
+  
+  .Tutorials-preview {
+    padding: 10px 16px;
+    margin: 20px 0;
+    border-bottom: 1px solid #222222;
+  }
+
+  .Tutorials-preview:hover {
+    box-shadow: 1px 3px 5px rgba(0,0,0,0.1);
+  }
+
+  .Tutorials-preview h2 {
+    font-size: 20px;
+    color: #f1356d;
+    margin-bottom: 8px;
+  }
+  
+  

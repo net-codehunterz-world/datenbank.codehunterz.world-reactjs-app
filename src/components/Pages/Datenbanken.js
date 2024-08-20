@@ -6,10 +6,10 @@ import Typography from "@mui/material/Typography";
 import Container from "@mui/material/Container";
 import Box from "@mui/material/Box";
 
-import "../Styles/Downloads.css";
+import "../Styles/Datenbanken.css";
 
 
-function Downloads() {
+function Datenbanken() {
   useEffect(() => {
 
     document.title = "bS | Downloads";
@@ -175,4 +175,4 @@ function Downloads() {
   );
 }
 
-export default Downloads;
+export default Datenbanken;

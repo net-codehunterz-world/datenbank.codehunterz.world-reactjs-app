@@ -5,11 +5,11 @@ import Typography from "@mui/material/Typography";
 import Container from "@mui/material/Container";
 import Box from "@mui/material/Box";
 
-import "../Styles/Contact.css";
+import "../Styles/Einstellungen.css";
 
 
 
-function Contact() {
+function Einstellungen() {
   useEffect(() => {
     document.title = "bS | Contact";
 
@@ -71,4 +71,4 @@ function Contact() {
   );
 }
 
-export default Contact;
+export default Einstellungen;
